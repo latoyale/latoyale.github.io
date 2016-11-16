@@ -1,0 +1,16 @@
+   if ($shipData['team'] == 'rebel') {
+            $ship = new RebelShip($shipData['name']);
+        }
+        else{
+            $ship = new Ship($shipData['name']);
+        }
+
+
+
+Shiree2014!!
+Shiree3838!!
+Shiree4040!!
+Shiree3737!!
+Shiree2020!!
+
+Legemah2121!!
