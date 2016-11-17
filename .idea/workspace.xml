@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19f502a8-d24e-4e28-9254-1d5a3d6cae63" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/font-awesome.css" afterPath="$PROJECT_DIR$/font-awesome.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="latoyale.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,20 +24,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17655">
-              <caret line="541" column="51" selection-start-line="541" selection-start-column="51" selection-end-line="541" selection-end-column="51" />
+            <state relative-caret-position="-11534">
+              <caret line="90" column="0" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="font-awesome.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="font-awesome.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/font-awesome.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-71829">
+            <state relative-caret-position="-65988">
               <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
               <folding />
             </state>
@@ -64,8 +65,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/index.htm" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/font-awesome.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -222,12 +223,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1479312384973</updated>
-      <workItem from="1479312386244" duration="9372000" />
+      <workItem from="1479312386244" duration="10352000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9372000" />
+    <option name="totallyTimeSpent" value="10352000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-362" y="1072" width="1616" height="876" extended-state="6" />
@@ -287,18 +288,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/font-awesome.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17655">
-          <caret line="541" column="51" selection-start-line="541" selection-start-column="51" selection-end-line="541" selection-end-column="51" />
+        <state relative-caret-position="-65988">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/font-awesome.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-71829">
-          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        <state relative-caret-position="-11534">
+          <caret line="90" column="0" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
           <folding />
         </state>
       </provider>
