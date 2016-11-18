@@ -6,6 +6,7 @@
     <title>Foundation Interchange Tutorial</title>
     <link rel="stylesheet" href="css/foundation.css" />
     <script src="js/modernizr.js" ></script>
+    <style>.spacer{ padding-top:40px;}</style>
   </head>
   <body>
     <nav class="top-bar" data-topbar>
@@ -79,7 +80,7 @@
   
   <!-- End Video -->
   
-    <div class="row">
+    <div class="row spacer">
       <div class="large-12 columns">
         <h1>Welcome to Planet Dust</h1>
         <hr>
@@ -112,11 +113,21 @@
     </div>
     
   <!-- Map Panel -->
-
+  <div class="row">
+    <div class="large-12 columns">
+      <div data-interchange="[default.html, (small)], [medium.html, (medium)], [large.html, (large)]"></div>
+    </div>
+  </div>
   <!-- End Map Panel -->
 
   <!-- YouTube Panel -->
-
+<div class="row">
+  <div class="large-12 columns">
+    <hr>
+    <div data-interchange="[yt-medium.html, (small)], [yt-medium.htl, (medium)], [yt-large.html, (large)]">
+    </div>
+  </div>
+</div>
   <!-- End YouTube Panel -->
 
   <!-- Footer -->
