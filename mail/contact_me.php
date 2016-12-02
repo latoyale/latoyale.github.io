@@ -22,6 +22,5 @@ $email_body = "You have received a new message from your website contact form.\n
 $headers = "From: noreply@gmail.com\n"; // This is the email address the generated message will be from. We recommend using something like noreply@yourdomain.com.
 $headers .= "Reply-To: $email_address";	
 mail($to,$email_subject,$email_body,$headers);
-var_dump($email_subject);
 return true;			
 ?>
