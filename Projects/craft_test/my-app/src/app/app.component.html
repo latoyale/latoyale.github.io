@@ -1,0 +1,40 @@
+<!--The content below is only a placeholder and can be replaced.-->
+
+<app-root subreddit="/r/askreddit"></app-root>
+
+    <pre>{{results | json}}</pre>
+
+<article id="container">
+    <section class="wrap">
+
+          <div class="article-box">
+            <div class="article-image">
+
+                </div><!--image-->
+
+<article id="container">
+    <section class="wrap">
+          <div class="article-box">
+            <div class="article-image">
+                  <img src="http://via.placeholder.com/500x350" alt="">
+            </div><!--image-->
+
+            <div class="article-title">
+              <h2>SS</h2>
+            </div><!--title-->
+            <div class="article-info">
+                <ul>
+                  <li *ngFor="let post of posts">
+                                  <a href="{{ post.url }}">
+                                          {{results | json}}
+                                  </a>
+                          </li>
+                  <li><i class="fa fa-user"></i> 123j</li>
+                  <li><i class="fa fa-clock-o" aria-hidden="true"></i>{{results.title | json}}</li>
+                  <li><i class="fa fa-bolt" aria-hidden="true"></i> 292</li>
+                </ul>
+            </div><!--info-->
+          </div>
+
+    </section>
+</article><!--container-->
