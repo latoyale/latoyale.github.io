@@ -503,3 +503,17 @@ fieldset[disabled] .btn-success.active {
   opacity: 0;
   display: none;
 }
+
+.img-responsive-custom{
+  width: 360px; 
+  height: 260px;
+  object-fit: cover;
+    
+  }
+
+  .img-Overlay-large{
+    width: 720px; 
+    height: 520px;
+    object-fit: cover;
+      
+    }
